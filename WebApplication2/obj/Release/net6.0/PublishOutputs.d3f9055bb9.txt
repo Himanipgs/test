@@ -1,0 +1,7 @@
+E:\Himani\WebApplication2\WebApplication2\obj\Release\net6.0\PubTmp\Out\WebApplication2.exe
+E:\Himani\WebApplication2\WebApplication2\obj\Release\net6.0\PubTmp\Out\appsettings.Development.json
+E:\Himani\WebApplication2\WebApplication2\obj\Release\net6.0\PubTmp\Out\appsettings.json
+E:\Himani\WebApplication2\WebApplication2\obj\Release\net6.0\PubTmp\Out\WebApplication2.dll
+E:\Himani\WebApplication2\WebApplication2\obj\Release\net6.0\PubTmp\Out\WebApplication2.deps.json
+E:\Himani\WebApplication2\WebApplication2\obj\Release\net6.0\PubTmp\Out\WebApplication2.runtimeconfig.json
+E:\Himani\WebApplication2\WebApplication2\obj\Release\net6.0\PubTmp\Out\WebApplication2.pdb
